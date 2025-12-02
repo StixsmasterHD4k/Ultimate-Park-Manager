@@ -70,4 +70,8 @@ Original RCT2 mechanics - Excitement/Intensity/Nausea value calculation
 OpenRCT2 Ride Price Manager - Age depreciation, duplicate penalty
 rct2calc.shottysteve.com - Deurklink's comprehensive calculator
 KaydeArcane rct-calculators - Park fee strategies
+
 MonkeybrainStudio Calculator - Shop item pricing data
+
+v2.2.0 - Initial Release
+v2.4.0 - I added the ability for it to auto adjust bathroom prices for you and the option to allow auto ride pricing to work independently from the park fee pricing if you desire.
